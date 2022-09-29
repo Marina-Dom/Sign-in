@@ -1,0 +1,41 @@
+div{
+    background-color: whitesmoke;
+    margin: auto;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.LogIn{
+    background-color: rgb(104, 212, 231);
+    color: white;
+    display: block;
+    margin: auto;
+    border-color: transparent;
+    padding: 8px;
+    width: 100px;
+}
+
+.username, .password{
+    width: 350px;
+    display: block;
+    margin: 20px;
+    padding: 1em;
+    margin-bottom: 10px;
+    border-color: transparent;
+}
+
+.Remember{
+    margin: 10px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+    padding: 20px;
+    
+}
+
